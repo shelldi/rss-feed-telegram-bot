@@ -1,4 +1,4 @@
-pyrogram==1.0.1
+Pyrogram==1.0.2
 feedparser
 apscheduler
 pickledb

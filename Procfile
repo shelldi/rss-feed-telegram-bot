@@ -1,1 +1,1 @@
-worker: python3 rss.py
+worker: python3 -m rss.py

@@ -34,7 +34,7 @@ def check_feed():
     if entry.id != db.get("feed_url"):
       
                    # ↓ Edit this message as your needs.
-      message = f"**{entry.title}**\n```{entry.link}```"
+      message = f"/LEECH {entry.link}"
       
       try:
         app.send_message(log_channel, message)

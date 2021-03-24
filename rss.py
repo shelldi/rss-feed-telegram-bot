@@ -9,7 +9,7 @@ from apscheduler.schedulers.background import BackgroundScheduler
 session_name = "AQA9tfNrZ3o9T7-C78ikEAOOTmn66V4K-Hcv6HNfmL7nuyntZMJVE3qjhGCz-piaIDZvGzuXpCSWpu-aCD0Vr5TvelIBuXwTJ-cfET7slwoieq1jOY3U7snVhB0PEal8hcFJbRTN82Hd5F-xs6A8-UgY9_pHckDPCprjiQX3pKGV9nkKZIwDI2aGvXI53Rrd287L2bVDicFnvFb8QEQbevciv7pAiHTUdNKG8P9Nme2bpLb76eI9cMGn2IEhD8KSxWEHmBEzhutVa71bnE5QhdEzfDJVyugSTfOR-Da_RNgtqVXzPxpPkTDOstjTP5YPqt7M2l8qre7rFaMcoqEIDiAiN3QeQgA"
 api_id = "3751415"   # Get it from my.telegram.org
 api_hash = "6547d1aaebb53eea6707945a48c4dd2f"   # Get it from my.telegram.org
-feed_url = ["https://torrentgalaxy.to/rss?magnet"]   # RSS Feed URL of the site.
+feed_url = ["https://torrentgalaxy.to/rss?magnet&user=29"]   # RSS Feed URL of the site.
    # Get it by creating a bot on https://t.me/botfather
 log_channel = "-1001319083973"   # Telegram Channel ID where the bot is added and have write permission. You can use group ID too.
 check_interval = 5  # Check Interval in seconds.  
